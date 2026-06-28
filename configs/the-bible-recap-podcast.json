@@ -1,0 +1,14 @@
+{
+  "outputFile": "the-bible-recap-podcast.html",
+  "pageTitle": "Recap Bible",
+  "appName": "Bible Recap Podcast",
+  "developerName": "Bible Recap Team",
+  "effectiveDate": "June 10, 2026",
+  "contactEmail": "hamanhdao001@gmail.com",
+  "thirdPartyServices": [
+    { "name": "Google Play Services", "url": "https://www.google.com/policies/privacy/" },
+    { "name": "AdMob", "url": "https://support.google.com/admob/answer/6128543?hl=en" },
+    { "name": "Google Analytics for Firebase", "url": "https://firebase.google.com/support/privacy" },
+    { "name": "Firebase Crashlytics", "url": "https://firebase.google.com/support/privacy/" }
+  ]
+}
